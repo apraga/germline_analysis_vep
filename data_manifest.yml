@@ -1,0 +1,10 @@
+files:
+- path: sequence/GRCH38/GRCH38_full_analysis_set.fna.gz
+  tracked: false
+  md5: 92d3088bc1c97478c37c2e13b620d50c
+  size: 903026760
+  url: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.26_GRCh38/GRCh38_major_release_seqs_for_alignment_pipelines/GCA_000001405.15_GRCh38_full_analysis_set.fna.gz
+remotes: {}
+metadata:
+  title: null
+  description: null
