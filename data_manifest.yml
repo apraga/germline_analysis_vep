@@ -9,6 +9,16 @@ files:
   md5: a03308ba679819b15442f459777c613c
   size: 19427
   url: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.26_GRCh38/GRCh38_major_release_seqs_for_alignment_pipelines/GCA_000001405.15_GRCh38_full_analysis_set.fna.fai
+- path: dbsnp/grch38.p14/dbsnp_grh38.p14.gz
+  tracked: false
+  md5: a1082ca70e15eb63301dfc33b19d0ae7
+  size: 26611209012
+  url: https://ftp.ncbi.nih.gov/snp/redesign/latest_release/VCF/GCF_000001405.40.gz
+- path: clinvar/grch38/clinvar_grch38.vcf.gz
+  tracked: false
+  md5: f56fd364340a4bb0e5ef6a23d7cc7dfa
+  size: 101019049
+  url: https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar.vcf.gz
 - path: sequence/grch38/homo_sapiens_grch38_full.fna.bwa_index.tar.gz
   tracked: false
   md5: 588b99942d4d12e646c879d08bf6a3a4
