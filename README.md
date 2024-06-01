@@ -12,5 +12,5 @@ Available data
 
 | Genome                  | dbSNP               | VEP                  | CADD                    |
 |-------------------------|---------------------|----------------------|-------------------------|
-| GRch38 + index (md5sum) | GRCh38.p14 (md5sum) | v112 on GRCH38 (sum) | v1.6 on GRCh38 (md5sum) |
-| GRCh38.p14 (md5sum)     |                     |                      |                         |
+| GRch38 + index (md5sum) | GRCh38.p14 (md5sum) | v112 on GRCH38 (sum) | v1.7 on GRCh38 (md5sum) |
+| GRCh38.p14 (md5sum)     |                     |                      | v1.6 on GRCh38 (md5sum) | 
