@@ -1,4 +1,5 @@
 This repository hosts  ressources for human germline analysis : reference genome and databases for variants annotation.
+This is intented to use with Ensembl [https://www.ensembl.org/info/docs/tools/vep/index.html](Variant Effect Predictor) or VEP.
 
 Ressources, called *assets*, are managed with [scidataflow](https://github.com/vsbuffalo/scidataflow) for download, update and integrity checks.
 
@@ -10,7 +11,9 @@ Notes:
 
 Available data
 
-| Genome                  | dbSNP               | VEP                  | CADD                    |
-|-------------------------|---------------------|----------------------|-------------------------|
-| GRch38 + index (md5sum) | GRCh38.p14 (md5sum) | v112 on GRCH38 (sum) | v1.7 on GRCh38 (md5sum) |
-| GRCh38.p14 (md5sum)     |                     |                      | v1.6 on GRCh38 (md5sum) | 
+| Asset  | Latest                  | Other                   |
+|--------+-------------------------+-------------------------|
+| Genome | GRCh38.p14 (md5sum)     | GRch38 + index (md5sum) |
+| dbSNP  | GRCh38.p14 (md5sum)     |                         |
+| VEP    | v112 on GRCH38 (sum)    |                         |
+| CADD   | v1.7 on GRCh38 (md5sum) | v1.6 on GRCh38 (md5sum) |
