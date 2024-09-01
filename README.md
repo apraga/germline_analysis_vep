@@ -11,9 +11,10 @@ Notes:
 
 Available data
 
-| Asset  | Latest                  | Other                   |
-|--------+-------------------------+-------------------------|
-| Genome | GRCh38.p14 (md5sum)     | GRch38 + index (md5sum) |
-| dbSNP  | GRCh38.p14 (md5sum)     |                         |
-| VEP    | v112 on GRCH38 (sum)    |                         |
-| CADD   | v1.7 on GRCh38 (md5sum) | v1.6 on GRCh38 (md5sum) |
+| Asset   | Latest                  | Other                   |
+|---------|-------------------------|-------------------------|
+| Genome  | GRCh38.p14 (md5sum)     | GRch38 + index (md5sum) |
+| CADD    | v1.7 on GRCh38 (md5sum) | v1.6 on GRCh38 (md5sum) |
+| Clinvar | GRCh38                  |                         |
+| dbSNP   | GRCh38.p14 (md5sum)     |                         |
+| VEP     | v112 on GRCH38 (sum)    |                         |
