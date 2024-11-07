@@ -1,89 +1,64 @@
 files:
-- path: cadd/v1.7/grch38/cadd_indel_grch38.tsv.gz
+- path: cadd/cadd_grch38_v1.7_indel.tsv.gz
   tracked: false
   md5: 4b9c685c96d396af4d001c2f7dd9d8f9
   size: 1257151321
   url: https://krishna.gs.washington.edu/download/CADD/v1.7/GRCh38/gnomad.genomes.r4.0.indel.tsv.gz
-- path: clinvar/grch38/clinvar_grch38.vcf.gz
+- path: clinvar/clinvar_grch38.vcf.gz
   tracked: false
   md5: f56fd364340a4bb0e5ef6a23d7cc7dfa
   size: 101019049
   url: https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar.vcf.gz
-- path: clinvar.vcf.gz
-  tracked: false
-  md5: e05111f8e6418ce2898d78f68d39a019
-  size: 103478058
-  url: https://ftp.ncbi.nlm.nih.gov/pub/clinvar/vcf_GRCh38/clinvar.vcf.gz
-- path: dbsnp/b156/grch38.p14/dbsnp_grch38.p14.gz.tbi
+- path: dbsnp/dbsnp_grch38.p14_b156.gz.tbi
   tracked: false
   md5: 76959b1691e8e62cd650664b00b7ea02
   size: 3118040
   url: http://ftp.ncbi.nih.gov/snp/redesign/archive/b156/VCF/GCF_000001405.40.gz.tbi
-- path: cadd/v1.6/grch38/cadd_indel_grch38.tsv.gz
-  tracked: false
-  md5: 0c4bd2698a88bb065da388448ed2dd2b
-  size: 1165363333
-  url: https://kircherlab.bihealth.org/download/CADD/v1.6/GRCh38/gnomad.genomes.r3.0.indel.tsv.gz
-- path: cadd/v1.6/grch38/cadd_snv_all_grch38.tsv.gz.tbi
-  tracked: false
-  md5: 4843cab24dd4992bb0cc5f1a7ebc807a
-  size: 2761623
-  url: https://kircherlab.bihealth.org/download/CADD/v1.6/GRCh38/whole_genome_SNVs.tsv.gz.tbi
-- path: sequence/grch38.p14/homo_sapiens_grch38.p14.fna.gz
+- path: sequence/homo_sapiens_grch38.p14.fna.gz
   tracked: false
   md5: c30471567037b2b2389d43c908c653e1
   size: 972898531
   url: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.40_GRCh38.p14/GCF_000001405.40_GRCh38.p14_genomic.fna.gz
-- path: cadd/v1.7/grch38/cadd_indel_grch38.tsv.gz.tbi
+- path: cadd/cadd_grch38_v1.7_indel.tsv.gz.tbi
   tracked: false
   md5: 85f3d2daa9202c5915c0ce0f1c749a66
   size: 1899705
   url: https://krishna.gs.washington.edu/download/CADD/v1.7/GRCh38/gnomad.genomes.r4.0.indel.tsv.gz.tbi
-- path: vep/112/grch38/vep_grch38.tar.gz
+- path: vep/vep_grch38_112.tar.gz
   tracked: false
   md5: 51f6fc181a41f7386c85b40219694427
   size: 29570918921
   url: https://ftp.ensembl.org/pub/release-112/variation/indexed_vep_cache/homo_sapiens_merged_vep_112_GRCh38.tar.gz
-- path: sequence/grch38/homo_sapiens_grch38_full.fna.gz
+- path: sequence/homo_sapiens_grch38_full.fna.gz
   tracked: false
   md5: 92d3088bc1c97478c37c2e13b620d50c
   size: 903026760
   url: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.26_GRCh38/GRCh38_major_release_seqs_for_alignment_pipelines/GCA_000001405.15_GRCh38_full_analysis_set.fna.gz
-- path: dbsnp/b156/grch38.p14/dbsnp_grch38.p14.gz
+- path: dbsnp/dbsnp_grch38.p14_b156.gz
   tracked: false
   md5: a1082ca70e15eb63301dfc33b19d0ae7
   size: 26611209012
   url: http://ftp.ncbi.nih.gov/snp/redesign/archive/b156/VCF/GCF_000001405.40.gz
-- path: cadd/v1.7/grch38/cadd_snv_all_grch38.tsv.gz
+- path: cadd/cadd_grch38_v1.7_snv_all.tsv.gz
   tracked: false
   md5: 88577a55f1cd519d44e0f415ba248eb9
   size: 87473403655
   url: https://krishna.gs.washington.edu/download/CADD/v1.7/GRCh38/whole_genome_SNVs.tsv.gz
-- path: sequence/grch38/homo_sapiens_grch38_full.fna.bwa_index.tar.gz
+- path: sequence/homo_sapiens_grch38_full.fna.bwa_index.tar.gz
   tracked: false
   md5: 588b99942d4d12e646c879d08bf6a3a4
   size: 3558456939
   url: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.26_GRCh38/GRCh38_major_release_seqs_for_alignment_pipelines/GCA_000001405.15_GRCh38_full_analysis_set.fna.bwa_index.tar.gz
-- path: cadd/v1.6/grch38/cadd_snv_all_grch38.tsv.gz
-  tracked: false
-  md5: faaa80ef3948cf44e56a3629a90cdaaa
-  size: 86592987071
-  url: https://kircherlab.bihealth.org/download/CADD/v1.6/GRCh38/whole_genome_SNVs.tsv.gz
-- path: sequence/grch38/homo_sapiens_grch38_full.fna.fai
+- path: sequence/homo_sapiens_grch38_full.fna.fai
   tracked: false
   md5: a03308ba679819b15442f459777c613c
   size: 19427
   url: https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/001/405/GCF_000001405.26_GRCh38/GRCh38_major_release_seqs_for_alignment_pipelines/GCA_000001405.15_GRCh38_full_analysis_set.fna.fai
-- path: cadd/v1.7/grch38/cadd_snv_all_grch38.tsv.gz.tbi
+- path: cadd/cadd_grch38_v1.7_snv_all.tsv.gz.tbi
   tracked: false
   md5: 4843cab24dd4992bb0cc5f1a7ebc807a
   size: 2761623
   url: https://kircherlab.bihealth.org/download/CADD/v1.6/GRCh38/whole_genome_SNVs.tsv.gz.tbi
-- path: cadd/v1.6/grch38/cadd_indel_grch38.tsv.gz.tbi
-  tracked: false
-  md5: 2c53e406058156da87f82f0dff6f7c4e
-  size: 1883536
-  url: https://kircherlab.bihealth.org/download/CADD/v1.6/GRCh38/gnomad.genomes.r3.0.indel.tsv.gz.tbi
 remotes: {}
 metadata:
   title: null
